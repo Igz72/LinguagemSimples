@@ -1,6 +1,6 @@
 # LinguagemSimples
 
-Acesse a [Wiki][wiki] para mais informações sobre o projeto!
+Acesse a [Wiki][wiki] para mais informações sobre o projeto, e assista ao [vídeo][video] que exemplifica o funcionamento!
 
 ## Arquivos
 
@@ -25,6 +25,7 @@ A execução deve ser realizada por linha de comando utilizando um único argume
 	java -jar simples.jar programa_fonte.smp
   
   [wiki]: <https://github.com/Igz72/LinguagemSimples/wiki#linguagemsimples-wiki>
+  [video]: <https://www.youtube.com/watch?v=XdQvEfGI8_I>
   [projeto]: <https://github.com/Igz72/LinguagemSimples/tree/main/simples>  
   [teste]: <https://github.com/Igz72/LinguagemSimples/tree/main/casos-de-teste>
   [exemplos]: <https://github.com/Igz72/LinguagemSimples/tree/main/exemplos>
