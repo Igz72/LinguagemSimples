@@ -1,0 +1,20 @@
+cor 102-178-256 azul
+cor 060-255-060 verde
+cor 255-255-102 amarelo
+
+imagem 100X100 sol
+
+repetir (n, 1, 100, 1)
+	repetir (m, 1, 100, 1)
+		sol(nXm) = amarelo
+
+imagem 800X600 Tela
+	repetir (n, 1, 800, 1)
+		repetir (m, 1, 600, 1)
+			Tela(nXm) = azul
+
+	repetir (n, 1, 800, 1)
+		repetir (m, 300, 600, 1)
+			Tela(nXm) = verde
+
+	Tela(600X50) = sol
