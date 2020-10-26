@@ -57,7 +57,15 @@ public class LinguagemSimplesGerador extends LinguagemSimplesBaseVisitor<Void> {
         int largura = Integer.parseInt(larguraString);
         int altura = Integer.parseInt(alturaString);
 
-        escopo.adicionarImagem(imagemNome, largura, altura, new Color[largura][altura]);
+        Color[][] imagem = new Color[largura][altura];
+
+        for (int i = 0; i < largura; i++) {
+            for (int j = 0; j < altura; j++) {
+                imagem[i][j] = new Color(255, 255, 255);
+            }
+        }
+
+        escopo.adicionarImagem(imagemNome, largura, altura, imagem);
         return null;
     }
 
