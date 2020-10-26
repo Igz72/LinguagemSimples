@@ -1,5 +1,7 @@
 # LinguagemSimples
 
+Acesse a [Wiki][wiki] para mais informações sobre o projeto!
+
 ## Arquivos
 
 O código-fonte do projeto está disponível em [simples][projeto].
@@ -22,6 +24,7 @@ A execução deve ser realizada por linha de comando utilizando um único argume
 
 	java -jar simples.jar programa_fonte.smp
   
+  [wiki]: <https://github.com/Igz72/LinguagemSimples/wiki#linguagemsimples-wiki>
   [projeto]: <https://github.com/Igz72/LinguagemSimples/tree/main/simples>  
   [teste]: <https://github.com/Igz72/LinguagemSimples/tree/main/casos-de-teste>
   [exemplos]: <https://github.com/Igz72/LinguagemSimples/tree/main/exemplos>
