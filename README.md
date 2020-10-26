@@ -23,7 +23,7 @@ O projeto é composto pelas seguintes classes:
 - `LinguagemSimplesSemantico`: implementa o analisador semântico revisitando a árvore sintática através da classe BaseVisitor, disponibilizada pelo ANTLR;
 - `Java2D`: define uma classe auxiliar para desenhar a imagem;
 - `LinguagemSimplesGerador`: revisita a árvore sintática novamente para gerar a imagem;
-- `MeuErrorListener`: implementa o tratamento dos erros sintáticos (conferme sugerido no fórum de dúvidas da disciplina).
+- `MeuErrorListener`: implementa o tratamento dos erros sintáticos (conforme sugerido no fórum de dúvidas da disciplina).
 
 ### Compilação
 
